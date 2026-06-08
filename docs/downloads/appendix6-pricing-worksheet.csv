@@ -1,0 +1,29 @@
+Task Group,Line Item,Type,Role/Vendor,Hours,Loaded Rate,Line Cost,Counts toward M/WBE 30%? (Y/N),Notes
+Task 1 - Brand Research Strategy & Concepting,Brand Strategist (lead),Labor,DoChakki,120,185,22200,N,Replace hours/rate
+Task 1 - Brand Research Strategy & Concepting,Researcher/Analyst,Labor,DoChakki,100,140,14000,N,
+Task 1 - Brand Research Strategy & Concepting,Creative Director (oversight),Labor,DoChakki,24,250,6000,N,
+Task 1 - Brand Research Strategy & Concepting,Project Manager,Labor,DoChakki,30,135,4050,N,
+Task 1 - Brand Research Strategy & Concepting,Focus-group recruiting/facilitation/incentives,Direct,External,,,15000,N,Direct cost not labor
+Task 2 - Visual Identity & Design Application,Creative Director,Labor,DoChakki,80,250,20000,N,
+Task 2 - Visual Identity & Design Application,Senior Designer (identity),Labor,DoChakki,200,150,30000,N,
+Task 2 - Visual Identity & Design Application,Designer,Labor,DoChakki,160,120,19200,N,
+Task 2 - Visual Identity & Design Application,Brand Strategist,Labor,DoChakki,40,185,7400,N,
+Task 2 - Visual Identity & Design Application,Project Manager,Labor,DoChakki,60,135,8100,N,
+Task 2 - Visual Identity & Design Application,Environmental graphics/signage/wayfinding,Subconsultant,Two Twelve,,,60000,Y,Confirm NYC SBS cert + real quote
+Task 2 - Visual Identity & Design Application,Mockup production/prototyping,Direct,External,,,10000,N,
+Task 3 - Architecture & Engineering Collaboration,Creative Director (brand-standards review),Labor,DoChakki,60,250,15000,N,Assumption-dependent - revise on Q8 answer
+Task 3 - Architecture & Engineering Collaboration,Environmental/Brand Lead,Labor,DoChakki,120,165,19800,N,
+Task 3 - Architecture & Engineering Collaboration,Project Manager,Labor,DoChakki,40,135,5400,N,
+Task 3 - Architecture & Engineering Collaboration,A&E coordination/submittal review,Subconsultant,Two Twelve,,,40000,Y,
+Task 4 - Account Management,Account/Project Manager,Labor,DoChakki,120,135,16200,N,
+Task 4 - Account Management,Creative Director (touchpoints),Labor,DoChakki,20,250,5000,N,
+,,,,,,,,
+ROLLUP,Task 1 total,,,,,61250,,-> Appendix 6 row 1
+ROLLUP,Task 2 total,,,,,154700,,-> Appendix 6 row 2
+ROLLUP,Task 3 total,,,,,80200,,-> Appendix 6 row 3
+ROLLUP,Task 4 total,,,,,21200,,-> Appendix 6 row 4
+ROLLUP,TOTAL ESTIMATE OF TASKS 1-4,,,,,317350,,-> Appendix 6 total
+,,,,,,,,
+M/WBE CHECK,Required M/WBE (30% of total),,,,,95205,,30% of 317350 - confirm base via Q5
+M/WBE CHECK,Planned M/WBE (sum of Y rows),,,,,100000,,Two Twelve 60000 + 40000
+M/WBE CHECK,M/WBE percent of contract,,,,,31.5%,,Must be >= 30%

@@ -75,6 +75,12 @@ PAGES = [
         "Partner-firm shortlist",
         "Verified NYC M/WBE branding & design firms scored against the RFP scope.",
     ),
+    Page(
+        "08_appendix6-pricing-worksheet.md",
+        "appendix6-pricing-worksheet.html",
+        "Appendix 6 pricing worksheet",
+        "Task-based cost build-up behind the Appendix 6 totals, with the 30% M/WBE reconciliation.",
+    ),
 ]
 
 
@@ -86,6 +92,10 @@ DOWNLOAD_FILES = [
     (
         ROOT / "source" / "partner-templates" / "06_participation-plan-working-sheet.csv",
         DOWNLOADS / "participation-plan-working-sheet.csv",
+    ),
+    (
+        ROOT / "source" / "partner-templates" / "08_appendix6-pricing-worksheet.csv",
+        DOWNLOADS / "appendix6-pricing-worksheet.csv",
     ),
 ]
 
@@ -327,6 +337,11 @@ def build_index() -> None:
             "Participation plan working sheet",
             "downloads/participation-plan-working-sheet.csv",
             "Working CSV for building the Appendix 4 team list.",
+        ),
+        (
+            "Appendix 6 pricing worksheet",
+            "downloads/appendix6-pricing-worksheet.csv",
+            "Task-based cost build-up CSV with the 30% M/WBE reconciliation.",
         ),
     ]
 

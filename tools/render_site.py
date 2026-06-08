@@ -81,6 +81,24 @@ PAGES = [
         "Appendix 6 pricing worksheet",
         "Task-based cost build-up behind the Appendix 6 totals, with the 30% M/WBE reconciliation.",
     ),
+    Page(
+        "09_win-strategy.md",
+        "win-strategy.html",
+        "Win strategy",
+        "How the award is scored and the themes that win it for DoChakki.",
+    ),
+    Page(
+        "10_proposal-narrative.md",
+        "proposal-narrative.html",
+        "Proposal narrative",
+        "The ≤30-page proposal structure and approach, with evidence slots to fill.",
+    ),
+    Page(
+        "11_mwbe-plan.md",
+        "mwbe-plan.html",
+        "M/WBE plan",
+        "How to fill Appendix 3 & 4 and clear the 30% goal credibly.",
+    ),
 ]
 
 
@@ -504,6 +522,29 @@ def build_index() -> None:
           all required appendices, M/WBE participation at or above 30%.
         </li>
       </ol>
+
+      <div class="section-head">
+        <h2>Then: win the proposal</h2>
+        <p>Assembling the team is the setup. These three move the bid from compliant to competitive &mdash;
+        they target the 75% of the score that's experience and proposal quality.</p>
+      </div>
+      <div class="grid">
+        <div class="card">
+          <span class="pill">Strategy</span>
+          <h3><a href="win-strategy.html">Win strategy &amp; themes</a></h3>
+          <p>How NYCEDC scores the award (40/35/15/5/5) and the four themes that win it for DoChakki.</p>
+        </div>
+        <div class="card">
+          <span class="pill">Narrative</span>
+          <h3><a href="proposal-narrative.html">Proposal narrative</a></h3>
+          <p>The &le;30-page structure and per-task approach, drafted &mdash; with the evidence slots DoChakki fills in.</p>
+        </div>
+        <div class="card">
+          <span class="pill">M/WBE</span>
+          <h3><a href="mwbe-plan.html">M/WBE plan</a></h3>
+          <p>How to fill Appendix 3 &amp; 4 and clear 30% credibly, tied to the pricing worksheet.</p>
+        </div>
+      </div>
 
       <div class="grid">
         <div class="card">

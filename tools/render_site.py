@@ -69,6 +69,12 @@ PAGES = [
         "Draft questions to NYCEDC",
         "Clarification questions to send before the RFP inquiry deadline.",
     ),
+    Page(
+        "07_partner-firm-shortlist.md",
+        "partner-firm-shortlist.html",
+        "Partner-firm shortlist",
+        "Verified NYC M/WBE branding & design firms scored against the RFP scope.",
+    ),
 ]
 
 

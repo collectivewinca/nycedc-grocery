@@ -99,6 +99,12 @@ PAGES = [
         "M/WBE plan",
         "How to fill Appendix 3 & 4 and clear the 30% goal credibly.",
     ),
+    Page(
+        "12_project-checklist.md",
+        "project-checklist.html",
+        "Project checklist",
+        "Phased to-do from today to the June 30 submission, with owners and deadlines.",
+    ),
 ]
 
 

@@ -105,6 +105,12 @@ PAGES = [
         "Project checklist",
         "Phased to-do from today to the June 30 submission, with owners and deadlines.",
     ),
+    Page(
+        "13_inversion-analysis.md",
+        "inversion-analysis.html",
+        "Inversion analysis",
+        "Munger's inversion: every way to lose this bid, flipped into rules to win by not losing.",
+    ),
 ]
 
 

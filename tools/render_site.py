@@ -111,6 +111,12 @@ PAGES = [
         "Inversion analysis",
         "Munger's inversion: every way to lose this bid, flipped into rules to win by not losing.",
     ),
+    Page(
+        "14_interested-subcontractors.md",
+        "interested-subcontractors.html",
+        "Interested subcontractors",
+        "NYCEDC's 21 self-registered interested subs for this RFP, scored against DoChakki's scope gaps.",
+    ),
 ]
 
 

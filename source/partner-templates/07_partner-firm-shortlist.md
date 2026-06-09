@@ -13,6 +13,29 @@ environmental-design gap a brand-identity shop typically has.
 
 ---
 
+## ⭐ Start here: NYCEDC's interested-subcontractors list (warm leads)
+
+**Recruit from NYCEDC's own list first.** `edc.nyc/contracts/1919` lists **21 firms that
+self-registered to subcontract on this exact RFP** — most already NYC M/WBE-certified. They're
+warmer than cold outreach and sourcing from NYCEDC's list documents good-faith M/WBE effort. See
+the full analysis in **`14_interested-subcontractors.md`**. Lead with these:
+
+| Pick | Fills | Cert |
+|---|---|---|
+| **Brendan Yan Architect** | **Task 3 — A&E collaboration** (an actual architect; rarest gap) | NYC + NYS M/WBE |
+| **lowercase, inc** | Task 1B — civic/food-access community research | (verify) |
+| **as1 Studio** | Task 2A/2B — communication design | NYC + NYS M/WBE |
+| **Cassie Chris Creative** | Task 2B — motion/digital signage, civic storytelling | NYC M/WBE |
+| **Kinetic Communities Consulting** | Environmental + community angle | NYC + NYS M/WBE |
+
+Tailored outreach drafts for the top picks are in **`15_tailored-outreach-drafts.md`**.
+
+> The firms below (Two Twelve, JPD) are **not on NYCEDC's list** — they're strong specialists found
+> through separate research, requiring cold outreach + certification verification. Use them to fill
+> gaps the warm-list firms can't (e.g., Two Twelve for heavy wayfinding/signage-system depth).
+
+---
+
 ## Tier 1 — verified M/WBE + strong scope fit
 
 ### ⭐ Two Twelve (212/Harakawa Inc.) — best single fit

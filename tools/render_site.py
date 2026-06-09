@@ -117,6 +117,12 @@ PAGES = [
         "Interested subcontractors",
         "NYCEDC's 21 self-registered interested subs for this RFP, scored against DoChakki's scope gaps.",
     ),
+    Page(
+        "15_tailored-outreach-drafts.md",
+        "tailored-outreach-drafts.html",
+        "Tailored outreach drafts",
+        "Ready-to-send emails to the top NYCEDC interested-subs, tailored to each firm's role.",
+    ),
 ]
 
 
@@ -157,11 +163,12 @@ class Step:
 FLOW = [
     Step(
         "Pick your partners",
-        "Open the verified shortlist and recruit Two Twelve first — the one firm that's both "
-        "M/WBE-certified and covers the environmental-design gap DoChakki needs for Tasks 2B and 3.",
-        "partner-firm-shortlist.html",
-        "See the shortlist",
-        "Shortlist",
+        "Start with NYCEDC's 21 interested subcontractors — warm, mostly NYC-M/WBE firms that already "
+        "want in. Top picks: Brendan Yan Architect (Task 3 A&E), lowercase (community), as1 Studio "
+        "(design). See the full shortlist for off-list specialists like Two Twelve.",
+        "interested-subcontractors.html",
+        "See the warm-leads list",
+        "Warm leads",
     ),
     Step(
         "Reach out",
